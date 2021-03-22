@@ -43,7 +43,7 @@ footer-links:
   email: 912598286@qq.com
   facebook:
   flickr:
-  github: AlexanderZhenke
+  github: alexander-lidong
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 527366b84f353a462737
   clientSecret: 401d9304b8362e08b8315b42939e6effd423802a
-  repo: alex_lee.github.io
+  repo: alexander-lidong.github.io
   owner: Alexander_Lee
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -73,7 +73,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://alex_lee.github.io
+url: http://alexander-lidong.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
